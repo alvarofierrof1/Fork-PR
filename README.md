@@ -11,3 +11,4 @@ Va a aparecer tu perfil de GitHub en la solicitud. Recuerda que había una tarea
 ## 👥 Participantes
 
 Jonathan Ortiz Belmar
+Sandra Berná Zaplana 
